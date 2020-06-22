@@ -1,3 +1,3 @@
-# Ethereum-Secret-Messenger
+# Ethereum-Secret-Messenger.
 
 A fully decentrailized private ethereum messenger.
